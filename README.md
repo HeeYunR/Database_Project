@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/Oracle Database-f80000?style=for-the-badge&logo=Oracle&logoColor=white"/> 
 
 # 데이터 구조
-<img src="3. 개념도 & ERD/화면 캡처.PNG">
+![erd_pro2](https://github.com/HeeYunR/Database_Project/assets/126316288/fce74ff4-8b71-47c1-b55c-46452cd44b65)
+
 
 <hr>
 
@@ -30,23 +31,19 @@
 
 # 대표적인 기능
 ### 📘 관리자 - 특정 교사 정보 조회
-<img src="9. 최종 요약본/p4_2.PNG">
+![pro2_pic1](https://github.com/HeeYunR/Database_Project/assets/126316288/99237cb7-a10a-4656-91a1-cd5888e3d59f)
 - 쿼리문을 통해서 데이터베이스에 저장되어 있는 교사의 정보 중에 특정 교사의 정보를 조회를 한다.
 
 #### 결과
-<img src="9. 최종 요약본/p4_4.PNG">
+![결과](https://github.com/HeeYunR/Database_Project/assets/126316288/103a6d6b-20ad-4f69-8887-85e15a06b4ae)
+
+<hr>
+### 📘 관리자 - 개근상
+![pro2_pic2](https://github.com/HeeYunR/Database_Project/assets/126316288/5cb018a1-c581-4859-b3cc-f183465e409c)
+- 쿼리문을 통해 해당 과정의 학생들 중 출결데이터가 모두 'y'인 정보를 조회한다.
 
 <hr>
 
-### 📘 교사 - 강의를 마친 교사 자신의 과목 목록 조회
-<img src="9. 최종 요약본/p4_1.PNG">
-- 쿼리문을 통해서 데이터베이스에 저장되어 있는 교사 자신의 과목 목록을 조회 할 수 있다.
-
-#### 결과
-
-<img src="9. 최종 요약본/p4_3.PNG">
-
-<hr>
 
 ## ❗ 아쉬웠던 점
 ### 오라클 데이터베이스 단독 사용
